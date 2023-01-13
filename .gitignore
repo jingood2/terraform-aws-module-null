@@ -52,6 +52,7 @@ junit.xml
 .jsii
 tsconfig.json
 !/API.md
+examples/construct/cdktf.out
 src/.gen
 src/cdktf.out
 src/modules

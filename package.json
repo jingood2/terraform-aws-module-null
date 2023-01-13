@@ -30,8 +30,8 @@
     "terraform:test": "./scripts/tf-module-test.sh"
   },
   "author": {
-    "name": "user",
-    "email": "user@domain.com",
+    "name": "jingood2",
+    "email": "jingood2@gmail.com",
     "organization": false
   },
   "devDependencies": {

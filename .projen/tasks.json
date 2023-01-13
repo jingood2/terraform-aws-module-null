@@ -221,6 +221,10 @@
         },
         {
           "spawn": "eslint"
+        },
+        {
+          "exec": "cdktf synth",
+          "cwd": "examples/construct"
         }
       ]
     },

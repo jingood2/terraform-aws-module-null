@@ -17,5 +17,5 @@ const app = new App();
 // This is the name the module can be found under.
 // We expect a "my-awesome-module.md" file in this directory.
 // The README.md file will be generated from this file.
-new MyAwesomeModule(app, "my-awesome-module");
+new MyAwesomeModule(app, "terraform-aws-module-null");
 app.synth();
